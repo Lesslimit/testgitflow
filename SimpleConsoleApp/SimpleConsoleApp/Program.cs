@@ -8,7 +8,7 @@ namespace SimpleConsoleApp
 {
     class Program
     {
-        const string version = "1.0.2";
+        const string version = "1.0.3";
 
         static void Main(string[] args)
         {
@@ -16,6 +16,7 @@ namespace SimpleConsoleApp
 
             Console.WriteLine("Adding super feature");
             Console.WriteLine("Fixing bugs");
+            Console.WriteLine("Fixing bugs - 2");
 
             Console.ReadLine();
         }
