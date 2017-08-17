@@ -15,6 +15,7 @@ namespace SimpleConsoleApp
             Console.WriteLine($"Version {version}");
 
             Console.WriteLine("Adding super feature");
+            Console.WriteLine("Fixing bugs");
 
             Console.ReadLine();
         }
